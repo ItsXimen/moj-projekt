@@ -1,1 +1,2 @@
-# Projekt1
+# Repozytorium na zadania i algorytmy
+# związane z nauką C++
